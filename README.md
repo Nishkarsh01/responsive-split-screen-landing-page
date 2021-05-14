@@ -5,7 +5,7 @@ This is a simple landing page created using HTML, CSS (Flexbox)
 > Nishkarsh Dubb
 
 ## Screenshots 📷
-![Website Screenshot 1](screenshots/screenshot1.png)
+![Website Screenshot 1](images/screenshot1.png)
 
 
 ## Live Demo 
