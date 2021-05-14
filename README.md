@@ -1,5 +1,5 @@
 # Responsive Split Screen Landing
-This is a simple landing page created using HTML, CSS (Flexbox) 
+This is a Simple Landing Page created using HTML, CSS (Flexbox) 
 
 ## Developed By 
 > Nishkarsh Dubb
