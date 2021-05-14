@@ -1,1 +1,0 @@
-# responsive-split-screen-landing-page
